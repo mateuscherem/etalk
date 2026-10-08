@@ -1,2 +1,2 @@
 const SUPABASE_URL='https://zlxcvkobgcubpsuhmlsi.supabase.co';
-const SUPABASE_ANON_KEY='eyJhbGciOiJIUzI1NiIs...'; // a sua chave longa, completa
+const SUPABASE_ANON_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpseGN2a29iZ2N1YnBzdWhtbHNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE0NjcwNDksImV4cCI6MjEwNzA0MzA0OX0.7e07E2nOiGEPx3S3hZ7-v0R_o2QjbDRdNcBSxDNJeMY';
