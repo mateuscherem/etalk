@@ -1,3 +1,2 @@
-// Cole aqui os dados do seu projeto Supabase (Project Settings > API)
-const SUPABASE_URL='https://sb_publishable_CP-HBYgvdu5NiQiISevpww_Tq2cqOKV';
-const eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpseGN2a29iZ2N1YnBzdWhtbHNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE0NjcwNDksImV4cCI6MjEwNzA0MzA0OX0.7e07E2nOiGEPx3S3hZ7-v0R_o2QjbDRdNcBSxDNJeMY';
+const SUPABASE_URL='https://zlxcvkobgcubpsuhmlsi.supabase.co';
+const SUPABASE_ANON_KEY='eyJhbGciOiJIUzI1NiIs...'; // a sua chave longa, completa
